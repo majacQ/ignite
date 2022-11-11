@@ -26,3 +26,4 @@ nltk
 pandas
 gym
 mkl
+jinja2>=2.11.3 # not directly required, pinned by Snyk to avoid a vulnerability
