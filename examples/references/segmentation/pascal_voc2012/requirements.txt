@@ -10,3 +10,4 @@ tqdm
 clearml
 image-dataset-viz
 py_config_runner>=0.2.0,<1.0.0
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
